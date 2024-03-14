@@ -1,0 +1,29 @@
+body{
+    background-color: #ffedd2;
+    color: #162114;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color:#ffbba6;
+}
+
+h4{
+    color: #eb3d00;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+}
+
+.header{
+    background-color: #294122;
+    color: #ffedd2;
+    text-align: center;
+}
+/*
+.intro{
+    margin-left: 250px;
+    margin-right: 250px;
+}*/
